@@ -32,6 +32,10 @@ $(document).ready(function () {
     });
 });
 
+var player = function() {
+
+};
+
 
 function Board() {
     // create unique cell values: 2^x used to determine winning condition
